@@ -1,7 +1,7 @@
 
 # Medium
 
-Welcome to my repository, structured around my publications on Medium [Federico Calabrò](https://medium.com/@fedcal).
+Welcome to my repository, structured around my publications on Medium: [Federico Calabrò](https://medium.com/@fedcal).
 
 ## About
 I primarily write about Computer Science topics, but occasionally I explore completely different subjects.
