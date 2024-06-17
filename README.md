@@ -1,4 +1,3 @@
-
 # Medium
 
 Welcome to my repository, structured around my publications on Medium: [Federico Calabrò](https://medium.com/@fedcal).
