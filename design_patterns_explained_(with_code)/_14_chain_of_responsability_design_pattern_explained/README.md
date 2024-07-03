@@ -1,4 +1,4 @@
-Chain Of Responsability Design Pattern Explained
+Chain of Responsability Design Pattern Explained
 Subtitle
 
 ## Introduction
