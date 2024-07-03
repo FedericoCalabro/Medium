@@ -10,5 +10,5 @@ void main() {
   db2.query("SELECT * FROM products");
 
   // Check if both instances are the same
-  print(db1 == db2);  // Output: true
+  print(db1 == db2); // Output: true
 }

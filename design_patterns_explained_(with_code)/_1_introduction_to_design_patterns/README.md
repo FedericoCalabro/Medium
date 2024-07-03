@@ -11,5 +11,3 @@ Design patterns DO matter because they provide proven solutions to common proble
 ```
 Thank you for your support!
 ```
-
-

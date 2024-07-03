@@ -1,7 +1,5 @@
-
 name: prototype_design_pattern
 description: prototype_design_pattern
 version: 1.0.0
 environment:
   sdk: ^3.4.3
-

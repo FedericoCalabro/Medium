@@ -10,5 +10,3 @@ The Prototype design pattern is a creational pattern that allows for the creatio
 ```
 Thank you for your support!
 ```
-
-

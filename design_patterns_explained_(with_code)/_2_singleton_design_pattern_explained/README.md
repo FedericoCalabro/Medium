@@ -11,5 +11,3 @@ The Singleton pattern is one of the most useful creational design patterns, ensu
 ```
 Thank you for your support!
 ```
-
-
