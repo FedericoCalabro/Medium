@@ -1,0 +1,5 @@
+name: memento_design_pattern
+description: memento_design_pattern
+version: 1.0.0
+environment:
+  sdk: ^3.4.3

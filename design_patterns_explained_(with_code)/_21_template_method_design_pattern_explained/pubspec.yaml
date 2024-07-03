@@ -1,0 +1,5 @@
+name: template_method_design_pattern
+description: template_method_design_pattern
+version: 1.0.0
+environment:
+  sdk: ^3.4.3
