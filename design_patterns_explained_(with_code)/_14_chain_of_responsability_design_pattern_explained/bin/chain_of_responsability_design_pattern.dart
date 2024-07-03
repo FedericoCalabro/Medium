@@ -1,4 +1,4 @@
-import 'package:chain_of_responsability_design_pattern/chain_or_responsability.dart';
+import 'package:chain_of_responsability_design_pattern/chain_of_responsability.dart';
 
 void main() {
   // Create chain of responsibility
