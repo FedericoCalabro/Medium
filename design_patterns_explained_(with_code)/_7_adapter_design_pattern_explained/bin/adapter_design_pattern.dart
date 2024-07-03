@@ -1,4 +1,6 @@
 import 'package:adapter_design_pattern/adapter.dart';
+import 'package:adapter_design_pattern/new.dart';
+import 'package:adapter_design_pattern/old.dart';
 
 void main() {
   // Using OldPrinter

@@ -1,14 +1,5 @@
-class OldPrinter {
-  void printDocument(String text) {
-    print("Old Printer: Printing document - $text");
-  }
-}
-
-class NewPrinter {
-  void newPrintMethod(String text) {
-    print("New Printer: Printing document - $text");
-  }
-}
+import 'package:adapter_design_pattern/new.dart';
+import 'package:adapter_design_pattern/old.dart';
 
 class PrinterAdapter implements OldPrinter {
   final NewPrinter newPrinter;
