@@ -1,5 +1,5 @@
-import 'package:flyweight_design_pattern/forest.dart';
-import 'package:flyweight_design_pattern/tree_intrinsic.dart';
+import 'package:flyweight_design_pattern/intrinsic.dart';
+import 'package:flyweight_design_pattern/manager.dart';
 
 void main() {
   Forest forest = Forest();

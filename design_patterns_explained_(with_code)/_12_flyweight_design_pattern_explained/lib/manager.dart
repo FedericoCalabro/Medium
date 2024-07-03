@@ -1,6 +1,6 @@
 // Forest class manages collections of trees
-import 'package:flyweight_design_pattern/tree_extrinsict.dart';
-import 'package:flyweight_design_pattern/tree_intrinsic.dart';
+import 'package:flyweight_design_pattern/extrinsict.dart';
+import 'package:flyweight_design_pattern/intrinsic.dart';
 
 class Forest {
   List<Tree> trees = [];

@@ -1,4 +1,4 @@
-import 'package:flyweight_design_pattern/tree_intrinsic.dart';
+import 'package:flyweight_design_pattern/intrinsic.dart';
 
 // Tree class represents the contextual object with extrinsic state
 class Tree {

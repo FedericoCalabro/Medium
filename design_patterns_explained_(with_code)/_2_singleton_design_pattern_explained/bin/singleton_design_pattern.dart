@@ -1,4 +1,4 @@
-import 'package:singleton_design_pattern/database.dart';
+import 'package:singleton_design_pattern/singleton.dart';
 
 void main() {
   // First getInstance() invocation will trigger the creation of the actual Database instance

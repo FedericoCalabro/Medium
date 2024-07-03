@@ -1,4 +1,4 @@
-import 'package:prototype_design_pattern/shapes.dart';
+import 'package:prototype_design_pattern/prototype.dart';
 
 void main() {
   // Create instances of Circle and Rectangle
@@ -16,6 +16,6 @@ void main() {
   // Print the original and cloned shapes
   print(circle1); // Output: Circle with radius: 10
   print(circle2); // Output: Circle with radius: 15
-  print(rect1);   // Output: Rectangle with width: 20 and height: 30
-  print(rect2);   // Output: Rectangle with width: 25 and height: 30
+  print(rect1); // Output: Rectangle with width: 20 and height: 30
+  print(rect2); // Output: Rectangle with width: 25 and height: 30
 }
