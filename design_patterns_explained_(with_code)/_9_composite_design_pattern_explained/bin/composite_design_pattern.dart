@@ -1,4 +1,5 @@
 import 'package:composite_design_pattern/composite.dart';
+import 'package:composite_design_pattern/leaf.dart';
 
 void main() {
   // Create files

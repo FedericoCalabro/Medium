@@ -1,4 +1,4 @@
-import 'package:decorator_design_pattern/coffee.dart';
+import 'package:decorator_design_pattern/component.dart';
 import 'package:decorator_design_pattern/decorators.dart';
 
 void main() {

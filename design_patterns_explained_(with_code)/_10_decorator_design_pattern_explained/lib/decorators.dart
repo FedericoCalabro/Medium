@@ -1,5 +1,5 @@
 // Decorator abstract class that implements the Coffee interface
-import 'package:decorator_design_pattern/coffee.dart';
+import 'package:decorator_design_pattern/component.dart';
 
 abstract class CoffeeDecorator implements Coffee {
   Coffee _coffee;

@@ -1,21 +1,6 @@
-// Abstract class representing the component in the composite pattern
-abstract class FileSystemComponent {
-  void showDetails();
-}
-
-// Leaf class representing a file
-class File extends FileSystemComponent {
-  final String name;
-
-  File(this.name);
-
-  @override
-  void showDetails() {
-    print("File: $name");
-  }
-}
-
 // Composite class representing a directory
+import 'package:composite_design_pattern/component.dart';
+
 class Directory extends FileSystemComponent {
   final String name;
   final List<FileSystemComponent> _children = [];
