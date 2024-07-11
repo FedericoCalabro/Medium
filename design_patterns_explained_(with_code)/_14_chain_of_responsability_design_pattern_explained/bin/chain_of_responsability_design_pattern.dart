@@ -13,7 +13,7 @@ void main() {
 
   // Process purchase requests
   print("Request of 500");
-  manager.processRequest(500); // Manger
+  manager.processRequest(500); // Manager
   print("\nRequest of 8000");
-  manager.processRequest(20000); // VMangager -> Director -> Vice President -> President
+  manager.processRequest(20000); // Mangager -> Director -> Vice President -> President
 }
